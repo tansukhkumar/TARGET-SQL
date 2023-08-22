@@ -1,8 +1,8 @@
-### TarGet-SQL
+### American retail corporation-SQL
 
-This particular business case focuses on the operations of TarGet in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews.
+This particular business case focuses on the operations of American retail corporation in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews.
 
-By analyzing this extensive dataset, it becomes possible to gain valuable insights into TarGet's operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
+By analyzing this extensive dataset, it becomes possible to gain valuable insights into American retail corporation's operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
 the task of analyzing the given dataset to extract valuable insights and provide actionable recommendations.
 
